@@ -569,12 +569,6 @@ Contributions are welcome! Areas for improvement:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the MIT file for details.
-
----
-
 ## 👤 Author
 
 **Your Name**
