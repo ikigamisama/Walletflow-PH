@@ -1,0 +1,6 @@
+__pycache__/
+guide/
+bin/
+logs/
+spark-ivy-cache/
+.env

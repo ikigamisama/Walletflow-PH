@@ -1,0 +1,42 @@
+# Core data packages
+pandas
+polars
+duckdb
+sqlalchemy
+scipy
+asyncpg>=0.27.0
+
+# Database drivers
+psycopg2-binary
+pymysql
+
+# HTTP & Web scraping
+# requests
+# beautifulsoup4
+# playwright
+# fake_useragent
+# loguru
+# free-proxy
+
+# Cloud & Storage
+minio
+s3fs
+boto3
+apache-airflow-providers-amazon
+apache-airflow-providers-postgres
+apache-airflow-providers-celery
+apache-airflow-providers-fab
+apache-airflow-providers-apache-spark
+
+# Data formats
+pyarrow
+fsspec
+
+# Messaging
+kafka-python
+
+# Utilities
+pyyaml
+python-dotenv
+synthetic-data-crafter
+openpyxl
