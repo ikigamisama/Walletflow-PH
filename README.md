@@ -580,7 +580,7 @@ This project is licensed under the MIT License - see the MIT file for details.
 **Your Name**
 
 - GitHub: [@ikigamisama](https://github.com/ikigamisama)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/franz-monzales-671775135)
+- LinkedIn: [Click Here](https://www.linkedin.com/in/franz-monzales-671775135)
 - Email: ikigamidevs@gmail.com
 
 ---
