@@ -99,11 +99,13 @@ Philippine e-wallets (like GCash, Maya, ShopeePay) process millions of transacti
 
 ```
 Apache Airflow 3.1
-├── DAG 1: Bronze Ingestion (@hourly)
+├── DAG 1: Establish Database Schema
+│   └── Added schema for silver and gold layer
+├── DAG 2: Bronze Ingestion (@hourly)
 │   └── Run transaction generator for 1 hour
-├── DAG 2: Silver Streaming Manager (@daily)
-│   └── Monitor/restart Spark Streaming job
-└── DAG 3: Gold Marts Builder (@daily, 2AM)
+├── DAG 3: Silver Streaming Manager (@daily)
+│   └── Monitor Spark Streaming job
+└── DAG 4: Gold Marts Builder (@daily, 2AM)
     └── Build aggregated analytics tables
 ```
 
@@ -173,7 +175,7 @@ Realistic data based on actual Philippine patterns:
 
 # Optional (for development)
 - Python 3.11+
-- Apache Spark 3.5
+- Apache Spark 4.1
 ```
 
 ### Installation
