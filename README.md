@@ -1,7 +1,7 @@
 # 🇵🇭 WalletFlow-PH: Real-Time Fintech Transaction Pipeline
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
-[![Apache Spark](https://img.shields.io/badge/Spark-3.5-orange.svg)](https://spark.apache.org/)
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![Apache Spark](https://img.shields.io/badge/Spark-4.1-orange.svg)](https://spark.apache.org/)
 [![Apache Airflow](https://img.shields.io/badge/Airflow-3.1-green.svg)](https://airflow.apache.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org/)
 [![Kafka](https://img.shields.io/badge/Kafka-Redpanda-red.svg)](https://redpanda.com/)
